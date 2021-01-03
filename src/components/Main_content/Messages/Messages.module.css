@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+}
+.column {
+    flex: 0 1 50%;
+    padding: 20px;
+}
+.column:first-child {
+    border-right: solid 2px gold;
+}

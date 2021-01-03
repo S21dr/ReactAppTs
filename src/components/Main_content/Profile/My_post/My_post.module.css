@@ -1,0 +1,14 @@
+.my_post {
+    display: flex;
+    flex-direction: column;
+}
+.my_post input {
+    margin-bottom: 20px;
+    padding: 20px 10px 40px 20px;
+}
+.send {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(19, 206, 102);
+    align-self: flex-end;
+}

@@ -1,0 +1,7 @@
+.main_content {
+    grid-area: mc;
+}
+.main_content_img {
+    width: 100%;
+    height: 400px;
+}

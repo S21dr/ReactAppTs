@@ -1,0 +1,16 @@
+.imgProfile {
+    width: 50px;
+}
+.activePage {
+    font-weight: bold;
+    color: red;
+}
+.page {
+    cursor: pointer;
+}
+.link {
+    cursor: pointer;
+    color: #000000;
+    text-decoration: none;
+    display: block;
+}

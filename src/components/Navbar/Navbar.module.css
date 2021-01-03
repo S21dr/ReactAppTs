@@ -1,0 +1,21 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(19, 206, 102);
+}
+.nav ul {
+    list-style: none;
+}
+.nav li {
+    margin-bottom: 20px;
+}
+.nav li a {
+    color: white;
+    transition: all 0.5s;
+    text-decoration: none;
+}
+.nav li a:hover {
+    color: gold;
+}
+.nav li a.activeLink {
+    color: gold;
+}
